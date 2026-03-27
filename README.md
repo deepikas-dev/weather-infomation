@@ -1,7 +1,7 @@
 # 🌤 Weatherly — Weather Website
 
 ## 🔗 Live Demo
-
+https://deepikas-dev.github.io/weather-infomation/
 
 ## 📌 About
 
